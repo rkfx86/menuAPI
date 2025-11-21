@@ -69,3 +69,4 @@ def menu():
 menu()
 #vai se ferrar q bagulho estressante 
 #depois de horas eu consegui, nao entendi nada do que eu fiz, mas consegui :)
+#edit: percebi que ha um erro, irei lançar uma nova versao corrigida
